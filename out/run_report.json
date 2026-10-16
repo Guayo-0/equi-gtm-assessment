@@ -1,0 +1,115 @@
+{
+  "run_at": "2026-10-15T23:30:49",
+  "score_model_version": "icp-v1.3.0",
+  "experiment_id": "opener_frame_v1",
+  "mode": "gemini-3.5-flash-lite",
+  "input_rows": 50,
+  "rows_after_entity_resolution": 45,
+  "duplicate_clusters_collapsed": 5,
+  "eligible_firms": 35,
+  "disqualified": 10,
+  "disqualify_reasons": {
+    "investment-side manager, not a buyer": 2,
+    "wirehouse \u2014 home-office gated, model does not fit": 1,
+    "TAMP \u2014 competes with our distribution layer": 1,
+    "$0.52B below hard floor \u2014 sub-scale for the fund minimums": 1,
+    "non-US domicile (CANADA) \u2014 out of scope for US fund structures": 1,
+    "broker-dealer \u2014 product-shelf economics, not a partner": 1,
+    "$0.24B below hard floor \u2014 sub-scale for the fund minimums": 1,
+    "$33.0B > $30B ceiling \u2014 in-sources managers, no room to add value": 1,
+    "$0.61B below hard floor \u2014 sub-scale for the fund minimums": 1
+  },
+  "tier_counts": {
+    "B": 12,
+    "DISQUALIFIED": 10,
+    "C": 9,
+    "A": 7,
+    "D": 7
+  },
+  "route_counts": {
+    "SUPPRESS": 17,
+    "B_STANDARD": 12,
+    "C_NURTURE": 7,
+    "A_PRINCIPAL": 6,
+    "ENRICH": 2,
+    "A_COMMITTEE": 1
+  },
+  "openers_generated": 19,
+  "openers_attempted": 19,
+  "opener_status_counts": {
+    "ok": 11,
+    "needs_review": 8
+  },
+  "opener_errors": 0,
+  "llm_calls": 0,
+  "cache_hits": 19,
+  "llm_cost_usd": 0.0,
+  "cost_per_shortlisted_lead_usd": 0.0,
+  "ab_split": {
+    "A": 12,
+    "B": 7
+  },
+  "needs_review_openers": 8,
+  "data_quality": {
+    "missing_aum": 3,
+    "missing_email": 1,
+    "missing_client_size": 9,
+    "parse_flags": {
+      "aum_missing": 3,
+      "aum_scale_inferred:millions": 1,
+      "email_generic_inbox": 1
+    }
+  },
+  "top_10": [
+    {
+      "firm_name": "Bramblewick Capital Advisers",
+      "icp_score": 111.0,
+      "tier": "A"
+    },
+    {
+      "firm_name": "Quillmoor Advisors",
+      "icp_score": 111.0,
+      "tier": "A"
+    },
+    {
+      "firm_name": "Solstice Grove Advisors",
+      "icp_score": 109.0,
+      "tier": "A"
+    },
+    {
+      "firm_name": "Aldermoor Capital Group",
+      "icp_score": 102.0,
+      "tier": "A"
+    },
+    {
+      "firm_name": "Sunridge Collective",
+      "icp_score": 102.0,
+      "tier": "A"
+    },
+    {
+      "firm_name": "Marisol & Hart Private Wealth",
+      "icp_score": 101.0,
+      "tier": "A"
+    },
+    {
+      "firm_name": "Fenwick Larkspur Capital",
+      "icp_score": 101.0,
+      "tier": "A"
+    },
+    {
+      "firm_name": "Harborstone Wealth Partners",
+      "icp_score": 98.0,
+      "tier": "B"
+    },
+    {
+      "firm_name": "Oakhurst Meridian Advisors",
+      "icp_score": 97.0,
+      "tier": "B"
+    },
+    {
+      "firm_name": "Marchetti Ruiz Family Advisors",
+      "icp_score": 97.0,
+      "tier": "B"
+    }
+  ]
+}

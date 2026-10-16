@@ -1,0 +1,3 @@
+﻿firm_name,tier,icp_score,signals,aum_raw,primary_contact,email,_parse_flags
+Windermere Trust Advisors,C,69.0,NEEDS_AUM_ENRICHMENT|NEEDS_CLIENT_SIZE_ENRICHMENT,,Fatoumata Diallo-Sissoko,fdiallo@windermeretrust.com,aum_missing
+Glenmara Wealth,C,62.0,NEEDS_AUM_ENRICHMENT|NEEDS_CLIENT_SIZE_ENRICHMENT,,Bjorn Haugland,bhaugland@glenmarawealth.com,aum_missing

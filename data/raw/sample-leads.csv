@@ -1,0 +1,51 @@
+firm_name,firm_type,aum,city,state,country,primary_contact,title,email,phone,custodian,alts_exposure,avg_client_size,last_touch,notes
+Harborstone Wealth Partners,RIA,4.2B,Charlotte,NC,USA,Margaret Ellison,Chief Investment Officer,m.ellison@harborstonewp.com,704-555-0182,Schwab,"private equity, real estate",6.5M,2026-03-14,met at Future Proof 2025
+HARBORSTONE WEALTH PARTNERS LLC,ria,"$4,200,000,000",Charlotte,North Carolina,,Margaret Ellison,CIO,mellison@harborstonewp.com,(704) 555-0182,Charles Schwab,PE / RE,,03/14/2026,dupe?
+Ridgeline Family Office,MFO,11500,Denver,CO,USA,Devendra Raghunathan,Founder & CIO,d.raghunathan@ridgelinefo.com,,Fidelity,"hedge funds, private credit, venture",14M,2026-01-22,
+Ridgeline Family Offices,multi-family office,11.5B,denver,co,,Dev Raghunathan,Founder/CIO,,720-555-0447,Fidelity,,,Jan 2026,possible duplicate of row 3
+Ostrander & Voss Advisors,RIA,880M,Portland,OR,USA,Tomasz Wierzbicki,Managing Partner,twierzbicki@ostrandervoss .com,503-555-0311,Pershing,none,1.1M,2025-11-08,below band?
+Pinnacle Crest Capital,RIA,2.5 billion,Austin,TX,USA,,,,512-555-0290,LPL Financial,none,3.2M,,no contact identified; LPL captive
+Wrenfield Bancorp Wealth Management,Wirehouse,340B,New York,NY,USA,Priya Balasubramanian,Head of Alternative Investments,priya.balasubramanian@wrenfield.com,212-555-0733,In-house,"everything",,2026-02-02,inbound from webinar
+Otterbein Asset Strategies,TAMP,19B,Chicago,IL,USA,Rebecca Lindqvist,Director of Investment Solutions,r.lindqvist@otterbeinas.com,312-555-0166,Multiple,"model portfolios",,2025-09-30,
+Haverlock Advisory Group,RIA,6.8B,Boston,MA,USA,Aoife Ní Bhraonáin,Director of Research,anibhraonain@haverlockadv.com,617-555-0904,Schwab,"private credit",8.9M,2026-04-11,committee-driven; slow
+Haverlock Advisory Grp.,RIA,6800000000,Boston,MA,US,Aoife Ni Bhraonain,Dir. of Research,anibhraonain@haverlockadv.com,,Schwab,private credit,,4/11/26,
+Marisol & Hart Private Wealth,MFO,3.1B,Coral Gables,FL,USA,Esperanza Villalobos-Quintero,Chief Investment Officer,evq@marisolhart.com,305-555-0621,BNY Pershing,"real assets, hedge funds",22M,2026-05-19,warm intro via Tory
+Marlowe Point Capital Management,Hedge Fund Manager,7.4B,Greenwich,CT,USA,Anders Kjellberg,Portfolio Manager,akjellberg@marlowepointcap.com,203-555-0455,,n/a,,2025-08-14,investment-side; not a buyer
+Baynard Holdings,Single Family Office,1.9B,Nashville,TN,USA,Chidinma Okonkwo-Adeyemi,Head of Investments,c.okonkwo@baynardholdings.com,615-555-0128,Northern Trust,"private equity, venture, art",,2026-06-03,SFO
+Glenmara Wealth,RIA,,Minneapolis,MN,USA,Bjorn Haugland,President,bhaugland@glenmarawealth.com,612-555-0977,Fidelity,,,2026-02-27,AUM unknown
+Sable Ridge Investment Counsel,RIA,1.4b,Scottsdale,AZ,USA,Yusuf Abdirahman,Founder,yusuf@sableridgeic.com,480-555-0212,Schwab,"real estate",2.8M,2026-07-08,
+Eastmarch Trust Company,MFO,15.2B,Seattle,WA,USA,Hyacinth Featherstone-Marsh,CIO,h.featherstone@eastmarchtrust.com,206-555-0340,Multiple,"hedge funds, private credit, infra",31M,2026-06-21,alts-native
+Vermillion & Sloane,RIA,520M,Providence,RI,USA,Guillermo Santacruz,Chief Investment Officer,gsantacruz@vermillionsloane.com,401-555-0788,LPL Financial,none,900K,2025-12-15,LPL; sub-band
+Bramblewick Capital Advisers,RIA,9.6B,Atlanta,GA,USA,Solveig Andersdottir,Chief Investment Officer,sandersdottir@bramblewickcap.com,404-555-0519,Schwab,"private credit, hedge funds",11M,2026-04-30,
+Bramblewick Capital Advisors Inc,RIA,9.6B,Atlanta,Georgia,USA,S. Andersdottir,CIO,sandersdottir@bramblewickcap.com,404 555 0519,Schwab,,,April 30 2026,
+Locheil Partners,MFO,2.2B,Toronto,ON,Canada,Jean-Baptiste Moreau-Lachance,Chief Investment Officer,jb.moreau@locheilpartners.ca,416-555-0663,RBC,"hedge funds",18M,2026-03-05,non-US
+Thornbury Wealth Advisors,RIA,3.7B,Philadelphia,PA,USA,Lakshmi Venkataraghavan,Director of Manager Research,lvenkataraghavan@thornburywa.com,215-555-0294,Pershing,"private equity",5.4M,2026-05-02,
+Thornbury Wealth Advisors,RIA,3.7B,Philadelphia,PA,USA,Marcus Oyelaran,EA to the CIO,m.oyelaran@thornburywa.com,215-555-0295,Pershing,,,2026-05-02,gatekeeper contact
+Cairnwell Private Capital,MFO,850M,Jackson,WY,USA,Ingrid Ravnsborg-Thiel,Managing Director,ingrid@cairnwellpc.com,307-555-0871,Fidelity,"venture, real estate",9M,,
+Beaumont Fielding Group,Broker-Dealer,44B,Dallas,TX,USA,Terrence Achebe,SVP Product,tachebe@beaumontfielding.com,214-555-0136,In-house,"structured notes",,2025-10-21,BD
+Oakhurst Meridian Advisors,RIA,5.9B,San Diego,CA,USA,Consuelo Iturbide-Ramírez,Founder and CIO,citurbide@oakhurstmeridian.com,619-555-0428,Schwab,"private credit",7.2M,2026-08-12,principal-led; can decide alone
+Fenwick Larkspur Capital,RIA,12.3B,San Francisco,CA,USA,Nikolaos Papadopoulos,Chief Investment Officer,npapadopoulos@fenwicklarkspur.com,415-555-0755,Multiple,"hedge funds, private credit, PE",16M,2026-07-25,
+Fernwold Advisory,RIA,240M,Boise,ID,USA,Hannah Weathersby,Owner,hannah@fernwoldadvisory.com,208-555-0603,Schwab,none,650K,2026-01-09,too small
+Aldermoor Capital Group,MFO,6.1B,Chicago,IL,USA,Oluwaseun Babatunde-Fashola,Chief Investment Officer,obf@aldermoorcg.com,312-555-0987,Northern Trust,"real assets, hedge funds",19M,2026-06-14,
+Quintrell Wealth Management,RIA,1.05B,Kansas City,MO,USA,,Chief Investment Officer,info@quintrellwm.com,816-555-0472,Fidelity,,2.1M,2025-07-30,generic inbox only
+Havenport Global Partners,MFO,28.4B,New York,NY,USA,Anneliese Vandersteen,Head of External Managers,a.vandersteen@havenportgp.com,212-555-0018,Multiple,"everything",47M,2026-08-28,near ceiling
+Marchetti Ruiz Family Advisors,MFO,4.4B,Miami,FL,USA,Rodrigo Marchetti-Ruiz,Principal,rodrigo@marchettiruiz.com,305-555-0359,BNY Pershing,"private equity, real estate",25M,2026-02-18,
+Cloverdale Financial Partners,RIA,780M,Madison,WI,USA,Siobhán Ó Ceallaigh,Managing Principal,soceallaigh@cloverdalefp.com,608-555-0244,LPL Financial,none,1.4M,2026-04-04,LPL
+Sparrowhawk Investment Advisors,RIA,2.9B,Richmond,VA,USA,Dmitri Yevtushenko,Director of Due Diligence,dyevtushenko@sparrowhawkia.com,804-555-0691,Schwab,"private credit",4.1M,2026-05-27,IC-driven
+Windermere Trust Advisors,MFO,,Salt Lake City,UT,USA,Fatoumata Diallo-Sissoko,Chief Investment Officer,fdiallo@windermeretrust.com,,Northern Trust,"hedge funds",,2026-03-30,AUM not disclosed
+Brackenridge Alternative Partners,Private Credit Manager,3.3B,Stamford,CT,USA,Emiliano Costa-Zabala,Managing Partner,ecosta@brackenridgeap.com,203-555-0507,,n/a,,2025-11-19,investment-side
+Quillmoor Advisors,RIA,7.7B,Raleigh,NC,USA,Wilhelmina Oosterhuis,Chief Investment Officer,woosterhuis@quillmooradv.com,919-555-0823,Schwab,"private equity, private credit",10M,2026-08-05,
+Kirkaldy & Sons Wealth,RIA,1.6B,Pittsburgh,PA,USA,Angus Kirkaldy III,Founder,akirkaldy@kirkaldysons.com,412-555-0110,Pershing,"real estate",3.6M,2026-06-28,
+Sunridge Collective,RIA,3.05B,Phoenix,AZ,USA,Nayeli Tenorio-Guzmán,Chief Investment Officer,ntenorio@sunridgecollective.com,602-555-0956,Fidelity,"hedge funds",6.8M,,never contacted
+Bellhaven Capital Advisors,RIA,33B,Boston,MA,USA,Krzysztof Zielinski,Chief Investment Officer,kzielinski@bellhavencap.com,617-555-0389,Multiple,"everything",38M,2026-07-17,above ceiling
+Ferrisdale Wealth Group,RIA,2.05B,Columbus,OH,USA,Abimbola Adesanya-Cole,Managing Director of Research,aadesanya@ferrisdalewg.com,614-555-0642,Schwab,"private credit, real estate",4.7M,2026-04-22,
+Larkhaven Multi-Family Office,MFO,5.4B,Newport Beach,CA,USA,Yekaterina Vorontsova,Chief Investment Officer,yvorontsova@larkhavenmfo.com,949-555-0271,Northern Trust,"hedge funds, PE, venture",27M,2026-08-19,
+Ambrose Quaid Advisory,RIA,1.2b,New Orleans,LA,USA,Thaddeus Boudreaux-Ambrose,Principal,tboudreaux@ambrosequaid.com,504-555-0538,Pershing,,2.9M,2026-01-31,
+Vantage Pointe Wealth,RIA,4.85B,Denver,CO,USA,Ravindra Chandrasekaran,Chief Investment Officer,rchandrasekaran@vantagepointewealth.com,303-555-0704,Schwab,"private credit",7.9M,2026-09-01,recently adopted a competitor platform
+Ellingham Court Partners,MFO,2.75B,Greenwich,CT,USA,Perpetua Nwachukwu-Eze,Founder & CIO,pnwachukwu@ellinghamcourt.com,203-555-0193,Fidelity,"private equity",21M,2026-05-14,
+Tessendale Ridge Capital,RIA,,Burlington,VT,USA,Étienne Beauchamp-Rossi,Chief Investment Officer,ebeauchamp@tessendaleridge.com,802-555-0466,Schwab,none,,2026-02-09,
+Solstice Grove Advisors,RIA,8.9B,Seattle,WA,USA,Xiaoming Zhu-Whitfield,Head of Manager Selection,xzhu@solsticegrove.com,206-555-0817,Multiple,"hedge funds, private credit",12M,2026-07-02,
+Pemberton Vale Wealth,RIA,610M,Omaha,NE,USA,Gertrude Vandenberg,Owner,gvandenberg@pembertonvale.com,402-555-0325,LPL Financial,none,1.05M,2025-12-01,LPL; sub-band
+Ashcombe Meridian Family Office,MFO,4.05B,Palo Alto,CA,USA,Rasheed Al-Mansoori,Chief Investment Officer,ralmansoori@ashcombemfo.com,650-555-0580,Northern Trust,"venture, private credit",24M,2026-08-23,
+Tanglewood Reach Advisors,RIA,3.45B,Hartford,CT,USA,Bronwyn Llewellyn-Price,Director of Research,bllewellyn@tanglewoodreach.com,860-555-0149,Pershing,"real estate",5.1M,2026-06-09,
+Cinderhill Investment Group,RIA,2.15B,Louisville,KY,USA,Ignatius Oyelowo-Bankole,Chief Investment Officer,iob@cinderhillig.com,502-555-0736,Schwab,,4.3M,2026-03-21,
